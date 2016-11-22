@@ -1,0 +1,3 @@
+# Golangtest #
+
+Learning golang
